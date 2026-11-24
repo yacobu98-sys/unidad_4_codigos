@@ -1,6 +1,6 @@
 #VENTANA PREGUNTA
 #
-#Luis Yahir Cortes Burgos
+#Luis YAHIR 
 
 import tkinter as tk
 from tkinter import messagebox
